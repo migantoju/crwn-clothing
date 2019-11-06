@@ -1,0 +1,29 @@
+
+# Created by https://www.gitignore.io/api/sass,react
+# Edit at https://www.gitignore.io/?templates=sass,react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+dist
+
+node_modules
+bower_componets
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# End of https://www.gitignore.io/api/sass,react
